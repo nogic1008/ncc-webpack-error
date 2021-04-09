@@ -1,0 +1,13 @@
+{
+  "name": "ncc-webpack-error",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/nogic1008/ncc-webpack-error.git",
+  "author": "Nogic <24802730+nogic1008@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=10",
+    "yarn": "^1.22.4"
+  }
+}
