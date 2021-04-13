@@ -1,5 +1,7 @@
 # ncc-webpack-error
 
+**Note: fixed in [0.28.3](https://github.com/vercel/ncc/releases/tag/0.28.3).**
+
 Reproduction for [vercel/ncc/#686](https://github.com/vercel/ncc/issues/686)
 
 ## Steps
